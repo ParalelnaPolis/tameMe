@@ -41,9 +41,11 @@ vlastných formulároch. Formuláre sú dostupné na internete (viď niž
 
 ## Osobitné splnomocnenie:
 
-a) Elektronická zdravotná knižka: Súhlas na prístup k údajom z elektronickej zdravotnej knižky sa udeľuje elektronicky na webovom portáli Národný portál zdravia na tejto adrese v sekcii „Moja zdravotná knižka“ vpravo hore.
-b) Pošta: na vybavenie splnomocnenia na preberanie zásielok na Slovenskej pošte treba vyplniť žiadosť dostupnú na tejto adrese a doručiť na poštu osobne, kde Vám vystavia malý preukaz splnomocnenca. Vybavenie žiadosti je spoplatnené.
-c) Banka: každá banka má svoj vlastný postup pri pridaní disponenta k účtu, prípadne na vydanie platobnej karty ďalšej osobe od Vášho bankového účtu.
+- **Elektronická zdravotná knižka**: Súhlas na prístup k údajom z elektronickej zdravotnej knižky sa udeľuje elektronicky na webovom portáli Národný portál zdravia na tejto adrese v sekcii „Moja zdravotná knižka“ vpravo hore.
+
+- **Pošta**: na vybavenie splnomocnenia na preberanie zásielok na Slovenskej pošte treba vyplniť žiadosť dostupnú na tejto adrese a doručiť na poštu osobne, kde Vám vystavia malý preukaz splnomocnenca. Vybavenie žiadosti je spoplatnené.
+
+- **Banka**: každá banka má svoj vlastný postup pri pridaní disponenta k účtu, prípadne na vydanie platobnej karty ďalšej osobe od Vášho bankového účtu.
 
 Vypracoval: Balance Counsels, s.r.o., Advokátska kancelária [www.balancecounsels.sk](https://www.balancecounsels.sk/) email: [balance.counsels@pm.me](mailto:balance.counsels@pm.me)
 Mgr. Simona Uhrinová, konateľka a advokátka
