@@ -64,6 +64,9 @@ dňa <input type="text" size="15" placeholder="dátum"/>.
 
 Listinný dokument môže byť [konvertovaný do elektronickej formy](https://www.slovensko.sk/sk/agendy/agenda/_zarucena-konverzia/) a nie je nutné ho mať fyzicky k dispozícii.
 
+Vypracoval: Balance Counsels, s.r.o., Advokátska kancelária [www.balancecounsels.sk](https://www.balancecounsels.sk/) email: [balance.counsels@pm.me](mailto:balance.counsels@pm.me)
+Mgr. Simona Uhrinová, konateľka a advokátka
+
 Powered by:
 
 ![Paralelná Polis](https://paralelnapolis.github.io/tameMe/images/logo-ppba.png "Logo Paralelná Polis Bratislava")
