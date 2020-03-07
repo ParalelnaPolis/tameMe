@@ -1,15 +1,28 @@
-<style>
-table {
-    width:100%;
-}
-</style>
 # GENERÁLNE PLNOMOCENSTVO
-[HTML]() / [PDF]() / [WORD]()
 
+<input type="text" size="40" placeholder="Meno a priezvisko"/>
 
-| <input type="text" size="40" placeholder="Meno a priezvisko"/><br/><input type="text" size="15" placeholder="Dátum narodenia"/><br/><input type="text" size="40" placeholder="Adresa"/><br/><input type="text" size="40" placeholder="Mesto a PSČ"/><br/>  (ďalej len „**Splnomocniteľ**“) | <input type="text" size="40" placeholder="Meno a priezvisko"/><br/><input type="text" size="15" placeholder="Dátum narodenia"/><br/><input type="text" size="40" placeholder="Adresa"/><br/><input type="text" size="40" placeholder="Mesto a PSČ"/><br/>  (ďalej len „**Splnomocnenec**“) |
+<input type="text" size="15" placeholder="Dátum narodenia"/>
 
-Splnomocniteľ týmto splnomocňuje Splnomocneneca, aby ho zastupoval Splnomocniteľa a uskutočňoval v
+<input type="text" size="40" placeholder="Adresa"/>
+
+<input type="text" size="40" placeholder="Mesto a PSČ"/>
+
+(ďalej len „**Splnomocniteľ**“)
+
+týmto splnomocňuje 
+
+<input type="text" size="40" placeholder="Meno a priezvisko"/>
+
+<input type="text" size="15" placeholder="Dátum narodenia"/>
+
+<input type="text" size="40" placeholder="Adresa"/>
+
+<input type="text" size="40" placeholder="Mesto a PSČ"/>
+
+(ďalej len „**Splnomocnenec**“)
+
+aby Splnomocnenec zastupoval Splnomocniteľa a uskutočňoval v
 jeho mene a na jeho účet akékoľvek právne, procesné, ako aj faktické úkony vo vzťahu k akýmkoľvek
 orgánom verejnej moci vrátane orgánovej verejnej správy, príslušným inštitúciám a právnickým osobám
 vrátane poštového podniku, banky, poskytovateľov akýchkoľvek služieb v bežnom rozsahu, vrátane 
@@ -38,13 +51,17 @@ Splnomocnenec nie je oprávnený substitučne splnomocniť v celom rozsahu alebo
 
 Plnomocenstvo sa udeľuje na dobu neurčitú.
 
-V <input type="text" size="40" placeholder="mesto"/>, dňa <input type="text" size="15" placeholder="dátum"/> .
+V <input type="text" size="40" placeholder="mesto"/>,
+dňa <input type="text" size="15" placeholder="dátum"/>.
 
-| <br/><br/><input type="text" size="40" placeholder="Meno a priezvisko"/><br/>Úradne osvedčený podpis | <br/><br/><input type="text" size="40" placeholder="Meno a priezvisko"/><br/>Úradne osvedčený podpis |
+<br/><br/><input type="text" size="40" placeholder="Meno a priezvisko"/>
+
+Úradne osvedčený podpis
+
+<br/><br/><input type="text" size="40" placeholder="Meno a priezvisko"/>
+
+Úradne osvedčený podpis
 
 Listinný dokument môže byť [konvertovaný do elektronickej formy](https://www.slovensko.sk/sk/agendy/agenda/_zarucena-konverzia/) a nie je nutné ho mať fyzicky k dispozícii.
-
-Vypracoval: Balance Counsels, s.r.o., Advokátska kancelária [www.balancecounsels.sk](https://www.balancecounsels.sk/) email: [balance.counsels@pm.me](mailto:balance.counsels@pm.me)
-Mgr. Simona Uhrinová, konateľka a advokátka
 
 This work is licensed under a [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
