@@ -32,3 +32,13 @@ má automaticky právo odmietnuť vypovedať trestného konaní, a pod.).
 5. PODPÍSAŤ a PODPIS OSVEDČIŤ: pred notárom / matrikou sa obidvaja partneri preukážu občianskym preukazom, dokument obidvaja podpíšu na podpisové riadky (pod podpisovým riadkom uvediete meno a priezvisko podpisujúceho podľa bodu 3.) a notár / zamestnanec matriky podpis osvedčí.
 6. ZAPLATIŤ ZA OSVEDČENIE PODPISU: osvedčenie podpisov je platená služba v sume cca 2-3 eurá za jeden podpis, spolu teda cca 6 eur (na matrike býva poplatok nižší ako u notára, ale nemusí to byť pravidlom)
 7. OSKENOVAŤ: Odporúčame originál (ideálne vždy každého oficiálneho dokumentu) ihneď naskenovať – tento postup umožní, že ho budete mať vždy pri sebe aspoň v digitálnej podobe (napr. v mobilnom telefóne) a môžete sa ním kedykoľvek preukázať; taktiež Vám ostane k dispozícii aspoň v digitálnej podobe aj v prípade jeho straty, zničenia, alebo ak by si Váš jediný originál chcel príslušný úrad, orgán, inštitúcia, atď. ponechať ako dôkaz, prečo Vám priznal postavenie blízkej osoby.
+
+
+Vypracoval: Balance Counsels, s.r.o., Advokátska kancelária [www.balancecounsels.sk](https://www.balancecounsels.sk/) email: [balance.counsels@pm.me](mailto:balance.counsels@pm.me)
+Mgr. Simona Uhrinová, konateľka a advokátka
+
+Powered by:
+
+![Paralelná Polis](https://paralelnapolis.github.io/tameMe/images/logo-ppba.png "Logo Paralelná Polis Bratislava")
+
+This work is licensed under a [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
