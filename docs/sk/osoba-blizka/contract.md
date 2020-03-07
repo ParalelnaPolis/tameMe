@@ -1,13 +1,24 @@
-<style>
-table {
-    width:100%;
-}
-</style>
 # ČESTNÉ VYHLÁSENIE BLÍZKYCH OSÔB
-[HTML]() / [PDF]() / [WORD]()
 
 
-| <input type="text" size="40" placeholder="Meno a priezvisko"/><br/><input type="text" size="15" placeholder="Dátum narodenia"/><br/><input type="text" size="40" placeholder="Adresa"/><br/><input type="text" size="40" placeholder="Mesto a PSČ"/> | <input type="text" size="40" placeholder="Meno a priezvisko"/><br/><input type="text" size="15" placeholder="Dátum narodenia"/><br/><input type="text" size="40" placeholder="Adresa"/><br/><input type="text" size="40" placeholder="Mesto a PSČ"/> |
+<input type="text" size="40" placeholder="Meno a priezvisko"/>
+
+<input type="text" size="15" placeholder="Dátum narodenia"/>
+
+<input type="text" size="40" placeholder="Adresa"/>
+
+<input type="text" size="40" placeholder="Mesto a PSČ"/>
+
+a
+
+
+<input type="text" size="40" placeholder="Meno a priezvisko"/>
+
+<input type="text" size="15" placeholder="Dátum narodenia"/>
+
+<input type="text" size="40" placeholder="Adresa"/>
+
+<input type="text" size="40" placeholder="Mesto a PSČ"/>
 
 **týmto čestne vyhlasujeme**, že od <input type="text" size="15" placeholder="dátum"/> zdieľame a staráme sa o spoločnú domácnosť, spoločne hospodárime s finančnými prostriedkami, navzájom poznáme svoj zdravotný stav, a navzájom sa zastupujeme
 pri vykonávaní bežných aj iných ako bežných vecí na základe vzájomne udelenej plnej moci; a že v dôsledku toho spĺňame zákonné podmienky vyžadované v zmysle ust. § 116 zákona č. 40/1964 Zb. Občiansky zákonník, t.j. sme si navzájom blízkymi osobami, nakoľko ujmu, ktorú by utrpel jeden z nás, by druhý na základe týchto okolností dôvodne pociťoval ako svoju vlastnú.
@@ -25,13 +36,24 @@ starostlivosti a o zmene a doplnení niektorých zákonov,
 - ako druh sme navzájom rodinnými príslušníkmi v zmysle zákona č. 475/2005 Z.z. o výkone trestu odňatia slobody a o zmene a doplnení niektorých zákonov, ako aj v zmysle ďalších relevantných právnych
 predpisov.
 
-V <input type="text" size="40" placeholder="mesto"/>, dňa <input type="text" size="15" placeholder="dátum"/> .
+V <input type="text" size="40" placeholder="mesto"/>,
+dňa <input type="text" size="15" placeholder="dátum"/>.
 
-| <br/><br/><input type="text" size="40" placeholder="Meno a priezvisko"/><br/>Úradne osvedčený podpis | <br/><br/><input type="text" size="40" placeholder="Meno a priezvisko"/><br/>Úradne osvedčený podpis |
+<br/><br/><input type="text" size="40" placeholder="Meno a priezvisko"/>
+
+Úradne osvedčený podpis
+
+<br/><br/><input type="text" size="40" placeholder="Meno a priezvisko"/>
+
+Úradne osvedčený podpis
 
 Listinný dokument môže byť [konvertovaný do elektronickej formy](https://www.slovensko.sk/sk/agendy/agenda/_zarucena-konverzia/) a nie je nutné ho mať fyzicky k dispozícii.
 
 Vypracoval: Balance Counsels, s.r.o., Advokátska kancelária [www.balancecounsels.sk](https://www.balancecounsels.sk/) email: [balance.counsels@pm.me](mailto:balance.counsels@pm.me)
 Mgr. Simona Uhrinová, konateľka a advokátka
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License.](https://creativecommons.org/licenses/by/4.0/legalcode)
+Powered by:
+
+![Paralelná Polis](https://paralelnapolis.github.io/tameMe/images/logo-ppba.png "Logo Paralelná Polis Bratislava")
+
+This work is licensed under a [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
