@@ -1,5 +1,7 @@
 # GENERÁLNE PLNOMOCENSTVO
 
+[MANUÁL](https://paralelnapolis.github.io/tameMe/sk/plna-moc/manual)
+
 <input type="text" size="40" placeholder="Meno a priezvisko"/>
 
 <input type="text" size="15" placeholder="Dátum narodenia"/>
