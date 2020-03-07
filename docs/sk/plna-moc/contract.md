@@ -64,4 +64,8 @@ dňa <input type="text" size="15" placeholder="dátum"/>.
 
 Listinný dokument môže byť [konvertovaný do elektronickej formy](https://www.slovensko.sk/sk/agendy/agenda/_zarucena-konverzia/) a nie je nutné ho mať fyzicky k dispozícii.
 
+Powered by:
+
+![Paralelná Polis](https://paralelnapolis.github.io/tameMe/images/logo-ppba.png "Logo Paralelná Polis Bratislava")
+
 This work is licensed under a [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
