@@ -1,5 +1,6 @@
 # ČESTNÉ VYHLÁSENIE BLÍZKYCH OSÔB
 
+[MANUÁL](https://paralelnapolis.github.io/tameMe/sk/osoba-blizka/manual)
 
 <input type="text" size="40" placeholder="Meno a priezvisko"/>
 
