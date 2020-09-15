@@ -1,6 +1,6 @@
 # ZÁVET
 
-[MANUÁL](https://paralelnapolis.github.io/tameMe/sk/plna-moc/manual)
+[MANUÁL](https://paralelnapolis.github.io/tameMe/sk/zavet/manual)
 
 Ja, dolupodpísaný/á
 
