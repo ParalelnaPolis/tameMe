@@ -1,6 +1,6 @@
 # tameMe
 
-Projekt krypto svadby ma za cieľ uľahčiť spolužitie párom, ktoré nechcú podstúpiť inštitucionalizovaný sobáš.
+Projekt krypto svadby ma za cieľ uľahčiť spolužitie párom, ktoré nechcú podstúpiť inštitucionalizovaný sobáš a pre nás (🏳️‍🌈), ktorým stále zákon neumožňuje žiť dôstojne.
 
 ## Dokumenty
 
