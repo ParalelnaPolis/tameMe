@@ -10,4 +10,6 @@ Projekt krypto svadby ma za cieľ uľahčiť spolužitie párom, ktoré nechcú 
 
 ## Viac informácií
 
-[Prednáška o tomto projekte a ako ho použiť](https://paralelnapolis.sk/ponuka/partnerske-vztahy-bez-statu-ii/).
+[Prednáška o tomto projekte a ako ho použiť časť I.](https://www.youtube.com/watch?v=YrnBUly4ugE).
+
+[Prednáška o tomto projekte a ako ho použiť časť II.](https://www.youtube.com/watch?v=Kc4UEQlnLoo).
